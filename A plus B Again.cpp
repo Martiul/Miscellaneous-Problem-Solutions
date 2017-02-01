@@ -64,8 +64,8 @@ int main() {
     else {
     //Different signs, nine-less greater:
     //The sum of a positive and negative number can be found by adding the nine-less
-    //form of the greater number (9 minus each digit of a number for each number) with the
-    //absolute value of the other number, and then turning it back
+    //form of the greater number (9 minus each digit of a number for each digit) with the
+    //absolute value of the other number, and then turning the sum back
     //e.g. -987 + 3
     //      = 012* + 3 (nineless version of 987; sign ignored)
     //      = 015
