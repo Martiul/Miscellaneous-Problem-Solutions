@@ -17,6 +17,6 @@ Takes up to 5000 integers and computes the length of the longest increasing subs
 Problem Types: Dynamic Programming
 
 
-### Maze (https://dmoj.ca/problem/ccc08s3)
-Takes a grid of characters representing the shape of a road and determines the minimum number of intersections required to get from one corner to the other  
+### Journey to the Moon (https://www.hackerrank.com/challenges/journey-to-the-moon)
+Calculate the number of possible pairs of astronauts from two different countries that can be formed given that each pair of astronauts are from the same country (there can be more than two countries)
 Problem Types: Graph Theory
